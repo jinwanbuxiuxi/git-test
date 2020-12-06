@@ -15,4 +15,7 @@ public class firstGit {
         System.out.println("hello git");
 
     }
+    public void test(){
+        System.out.println("123");
+    }
 }
